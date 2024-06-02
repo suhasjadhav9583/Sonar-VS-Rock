@@ -3,3 +3,5 @@ it is a machine learning project implemented by a logistic regression algorithm 
 
 # Workflow of the project
 Sonar data(binary form)--->data preprocessing--->training and testing data--->logistic model(because it is a binary classification problem)-->identify the object whether it is rock or mine.
+
+#the code is implemented on google Colab
